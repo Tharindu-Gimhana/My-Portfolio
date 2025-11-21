@@ -13,8 +13,8 @@ function Hero() {
         <div className="text-center">
           <div className="animate-slide-up">
             <img src="./src/assets/final one final.png" alt="Your Name" className="w-128 h-128 md:w-60 md:h-60 rounded-full mx-auto mb-6 border-4 border-primary shadow-lg shadow-primary/30 object-cover" />            
-            <p className="text-primary text-lg mb-4 font-medium">Hello</p>
-            <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
+            <p className="text-primary text-lg mb-4 font-medium">Hello.. I'm</p>
+            <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 ">
               Tharindu Gimhana
             </h1>
             <p className="text-2xl md:text-3xl text-gray-300 mb-8">
