@@ -1,7 +1,20 @@
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import About from "./components/About"
+import Skills from "./components/Skills"
+import Projects from "./components/Projects"
+import Contact from "./components/Contact"
+import Footer from "./components/Footer"
 function App() {
   return (
     <div className="min-h-screen bg-darker">
-      <h1 className="text-3xl font-bold text-light p-4">Hello, World!</h1>
+      <Navbar />
+      <Hero />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+      <Footer />  
     </div>
   )
 }
