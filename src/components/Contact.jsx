@@ -32,7 +32,7 @@ function Contact() {
     // Optional: Clear the form and show a message (the alert might annoy users
     // since they are being taken to another app, but I'll keep the logic here
     // for a smooth transition, but no alert.)
-    // Note: The form clears *before* the email client opens.
+    // Note: The form clears *before* the email client opens....
     setFormData({ name: '', email: '', subject: '', message: '' });
   };
   // -------------------------------------
