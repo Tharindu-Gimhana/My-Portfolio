@@ -43,7 +43,7 @@ function Projects() {
           </h2>
           <div className="w-20 h-1 bg-primary mx-auto"></div>
           <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
-            A showcase of my recent work and personal projects
+            A showcase of my recent work and personal projects.
           </p>
         </div>
 
