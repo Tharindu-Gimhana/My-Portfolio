@@ -5,7 +5,7 @@ function Projects() {
       description: 'A full-stack e-commerce website for a computer shop with shopping cart, User management, and admin dashboard with usual functionalities.',
       tags: ['React', 'Node.js', 'Express', 'MongoDB' , 'Tailwind CSS' , ],
       image: 'https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800',
-      demoLink: '#',
+      demoLink: 'https://github.com/Tharindu-Gimhana/-ROOT-computer-shop-management-system-',
       codeLink: '#',
     },
     {
@@ -13,14 +13,14 @@ function Projects() {
       description: 'A web application to manage library operations including book inventory, member management, and borrowing.',
       tags: ['React', 'Node.js', 'Express', 'MySQL' , 'Bootstrap'],
       image: 'https://www.shriconnect.com/wp-content/uploads/2023/12/books-laptop-1-1536x1024.jpg',
-      
+      demoLink: 'https://github.com/Tharindu-Gimhana/Library-management-system-project',
     },
     {
       title: 'FoT News Corner - Mobile Application',
       description: 'A mobile app that provides the latest news and updates from the Faculty of Technology, University of Colombo.',
       tags: ['Android Studio', 'Firebase', 'Figma'],
       image: 'https://img.global.news.samsung.com/uk/wp-content/uploads/2025/04/Main-Page-Key-Visual-1000-x-563px.jpg',
-      demoLink: '#',
+      demoLink: 'https://github.com/Tharindu-Gimhana/FOT-News-Corner---The-News-App-',
       codeLink: '#',
     },
     {
