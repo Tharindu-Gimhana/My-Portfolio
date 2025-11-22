@@ -38,7 +38,7 @@ function Skills() {
           </h2>
           <div className="w-20 h-1 bg-primary mx-auto"></div>
           <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
-            A comprehensive overview of my technical skills and proficiency levels
+            A comprehensive overview of my technical skills and proficiency levels.
           </p>
         </div>
 
