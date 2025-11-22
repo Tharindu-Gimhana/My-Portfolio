@@ -46,7 +46,7 @@ function About() {
                   <h4 className="text-xl font-semibold text-white mb-2">
                     Bachelor of Information and Communication Technology(Hons) 
                   </h4>
-                  <p className="text-gray-400 mb-2">Faculty of Technology , University of Colombo , Sri Lanka</p>
+                  <p className="text-gray-400 mb-2">Faculty of Technology , University of Colombo , Sri Lanka.</p>
                   <p className="text-gray-500 text-sm">2023 - 2027</p>
                 </div>
 
